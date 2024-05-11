@@ -6,12 +6,6 @@
     "custom": "true"
   },
   {
-    "name": "! [NEW] Request A Game",
-    "link": "https://forms.gle/vwdHN3iPz5cLaHaMA",
-    "image": "/assets/media/icons/request.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Amazon Luna",
     "link": "https://luna.amazon.com/",
     "image": "/assets/media/icons/amazon-luna.webp",
@@ -558,12 +552,6 @@
     "load": true
   },
   {
-    "name": "Papa's Freezeria",
-    "link": "https://www.coolmathgames.com/0-papas-freezeria/play",
-    "image": "/assets/media/icons/papasfreezeria.webp",
-    "categories": ["all", "2P"]
-  },
-  {
     "name": "Evades",
     "link": "https://evades.io",
     "image": "/assets/media/icons/evadesio.webp",
@@ -573,18 +561,6 @@
     "name": "Bullet Force Multiplayer",
     "link": "https://www.crazygames.com/game/bullet-force-multiplayer",
     "image": "/assets/media/icons/BFM.webp",
-    "categories": ["all,", "2P"]
-  },
-  {
-    "name": "Crazy Games",
-    "link": "https://www.crazygames.com/",
-    "image": "/assets/media/icons/crazy.webp",
-    "categories": ["all,", "emu,", "2P,", "sports,", "flash"]
-  },
-  {
-    "name": "Cubes 2048",
-    "link": "https://www.crazygames.com/game/cubes-2048-io",
-    "image": "/assets/media/icons/C2048.webp",
     "categories": ["all,", "2P"]
   },
   {
