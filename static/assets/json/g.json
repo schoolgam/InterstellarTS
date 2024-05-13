@@ -57,27 +57,9 @@
     "categories": ["all"]
   },
   {
-    "name": "Twisted Cooking Mama",
-    "link": "https://twisted-cooking-mama.game-files.crazygames.com/ruffle/twisted-cooking-mama/1/twistedcookingmama.html?v=1.273",
-    "image": "/assets/media/icons/twistedcookingmama.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Marbles Garden",
     "link": "https://www.coolmathgames.com/0-marbles-garden/play",
     "image": "/assets/media/icons/marblesgarden.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Fancy Pants Adventure",
-    "link": "https://games.crazygames.com/en_US/fancy-pants-adventure-world/index.html?v=1.273",
-    "image": "/assets/media/icons/fancypantsadventures.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Fancy Pants Adventure 2",
-    "link": "https://games.crazygames.com/en_US/fancy-pants-adventure-world/index.html?v=1.273",
-    "image": "/assets/media/icons/fancypantsadventures2.webp",
     "categories": ["all"]
   },
   {
@@ -123,18 +105,6 @@
     "categories": ["all"]
   },
   {
-    "name": "The Impossible Quiz",
-    "link": "https://the-impossible-quiz.game-files.crazygames.com/ruffle/theimpossiblequiz.html",
-    "image": "/assets/media/icons/theimpossiblequiz.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Helix Jump",
-    "link": "https://helix-jump.game-files.crazygames.com/helix-jump/1/index.html",
-    "image": "/assets/media/icons/helixjump.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "skribbl",
     "link": "https://skribbl.io/",
     "image": "/assets/media/icons/skribblio.webp",
@@ -150,18 +120,6 @@
     "name": "Stomped.io",
     "link": "https://stomped.io",
     "image": "/assets/media/icons/stompedio.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Age of War",
-    "link": "https://age-of-war.game-files.crazygames.com/ruffle/ageofwar.html",
-    "image": "/assets/media/icons/ageofwar.webp",
-    "categories": ["all", "2P"]
-  },
-  {
-    "name": "Brain Test",
-    "link": "https://0322484b-7a58-4454-9667-f805afffded5.poki-gdn.com/2e6b68d3-0f43-4b84-9c14-ab59f94e566c/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-v3.132.1&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fbrain-test-tricky-puzzles&gdhoist=yes&nonPersonalized=n&familyFriendly=n&categories=7%2C16%2C37%2C72%2C96%2C400%2C832%2C843%2C1140%2C1150%2C1159&special_condition=landing&game_id=0322484b-7a58-4454-9667-f805afffded5&game_version_id=2e6b68d3-0f43-4b84-9c14-ab59f94e566c",
-    "image": "/assets/media/icons/braintest.webp",
     "categories": ["all"]
   },
   {
@@ -237,12 +195,6 @@
     "categories": ["all", "2P"]
   },
   {
-    "name": "Addicting Games",
-    "link": "https://www.addictinggames.com/",
-    "image": "/assets/media/icons/addictinggames.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Deeeep.io",
     "link": "https://beta.deeeep.io",
     "image": "/assets/media/icons/deeeepio.webp",
@@ -253,18 +205,6 @@
     "link": "https://ev.io",
     "image": "/assets/media/icons/evio.webp",
     "categories": ["all", "2P"]
-  },
-  {
-    "name": "Brain Test 2",
-    "link": "https://games.poki.com/458768/df221093-aae9-4c0d-b458-efb16ae8e3ab",
-    "image": "/assets/media/icons/braintest2.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Brain Test 3",
-    "link": "https://games.poki.com/458768/1f3ae540-a95f-4f20-a000-29512612e341",
-    "image": "/assets/media/icons/braintest3.webp",
-    "categories": ["all"]
   },
   {
     "name": "Donitz - itch.io",
@@ -401,12 +341,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Happy Wheels",
-    "link": "https://files.crazygames.com/ruffle/happywheels.html",
-    "image": "/assets/media/icons/happywheels.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Papa's Burgeria",
     "link": "https://www.coolmathgames.com/0-papas-burgeria/play",
     "image": "/assets/media/icons/papasburgeria.webp",
@@ -441,18 +375,6 @@
     "link": "https://powerline.io",
     "image": "/assets/media/icons/powerline.webp",
     "categories": ["all", "2P"]
-  },
-  {
-    "name": "Papa's Scooperia",
-    "link": "https://files.crazygames.com/ruffle/papasscooperia.html",
-    "image": "/assets/media/icons/papasscooperia.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Papa's Sushiria",
-    "link": "https://files.crazygames.com/ruffle/papassushiria.html",
-    "image": "/assets/media/icons/papassushiria.webp",
-    "categories": ["all"]
   },
   {
     "name": "Burrito Bison",
@@ -558,12 +480,6 @@
     "categories": ["all,", "2P"]
   },
   {
-    "name": "Bullet Force Multiplayer",
-    "link": "https://www.crazygames.com/game/bullet-force-multiplayer",
-    "image": "/assets/media/icons/BFM.webp",
-    "categories": ["all,", "2P"]
-  },
-  {
     "name": "DOOM",
     "link": "https://archive.org/details/doom-play",
     "image": "/assets/media/icons/DOOM.webp",
@@ -585,18 +501,6 @@
     "name": "FNAF Web",
     "link": "https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/",
     "image": "/assets/media/icons/FNAFWeb.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Riddle School 4",
-    "link": "https://riddle-school-4.game-files.crazygames.com/ruffle/riddleschool4.html",
-    "image": "/assets/media/icons/rs4.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Riddle School 5",
-    "link": "https://riddle-school-5.game-files.crazygames.com/ruffle/riddleschool5.html",
-    "image": "/assets/media/icons/rs5.webp",
     "categories": ["all"]
   },
   {
@@ -804,12 +708,6 @@
     "categories": ["all"]
   },
   {
-    "name": "BuildNow.GG",
-    "link": "https://games.crazygames.com/en_US/buildnow-gg/index.html",
-    "image": "/assets/media/icons/build-now.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Cat Ninja",
     "link": "https://4iapq88o5f3gc1dij3it0mp5jojnm3jr-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%252Fcat-ninja.xml",
     "image": "/assets/media/icons/cat-ninja.webp",
@@ -996,12 +894,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Haunted School 1",
-    "link": "https://games.crazygames.com/en_US/haunted-school---horror-game/index.html",
-    "image": "/assets/media/icons/na.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "HexArena",
     "link": "https://hexarena.io/",
     "image": "/assets/media/icons/hexarena.webp",
@@ -1041,12 +933,6 @@
     "name": "Jacksmith",
     "link": "https://www.coolmathgames.com/0-jacksmith/play",
     "image": "/assets/media/icons/jacksmith.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Sandtrix",
-    "link": "https://files.crazygames.com/sandtrix/16/index.html",
-    "image": "/assets/media/icons/sandtrix.webp",
     "categories": ["all"]
   },
   {
@@ -1266,24 +1152,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Madalin Stunt Cars Multiplayer",
-    "link": "https://games.crazygames.com/en_US/madalin-cars-multiplayer/index.html",
-    "image": "/assets/media/icons/madalinmultiplayer.webp",
-    "categories": ["all", "2P"]
-  },
-  {
-    "name": "Madalin Stunt Cars 2",
-    "link": "https://games.crazygames.com/en_US/madalin-stunt-cars-2/index.html",
-    "image": "/assets/media/icons/madalinstuntcars2.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Madalin Stunt Cars 3",
-    "link": "https://games.crazygames.com/en_US/madalin-stunt-cars-3/index.html",
-    "image": "/assets/media/icons/madalinstuntcars3.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "PM: Light Platinum",
     "link": "https://browncha023.github.io/GBA/launcher.html#pokemonlp",
     "image": "/assets/media/icons/lp.webp",
@@ -1344,12 +1212,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Riddle School 3",
-    "link": "https://riddle-school-3.game-files.crazygames.com/ruffle/riddleschool3.html",
-    "image": "/assets/media/icons/rs3.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Rocket Pult",
     "link": "https://v6p9d9t4.ssl.hwcdn.net/html/565140/index.html",
     "image": "/assets/media/icons/rocketpult.webp",
@@ -1401,12 +1263,6 @@
     "name": "Smash Karts",
     "link": "https://smashkarts.io/",
     "image": "/assets/media/icons/smashkarts.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Snowball.io",
-    "link": "https://games.crazygames.com/en_US/snowball-io/index.html",
-    "image": "/assets/media/icons/snowball.webp",
     "categories": ["all"]
   },
   {
@@ -1809,12 +1665,6 @@
     "categories": ["all", "emu"]
   },
   {
-    "name": "Wrassling",
-    "link": "https://games.poki.com/458768/wrassling",
-    "image": "/assets/media/icons/wrassling.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Happy Wheels",
     "link": "https://games-online.io/game/HappyWheels/",
     "image": "/assets/media/icons/hw.webp",
@@ -1830,12 +1680,6 @@
     "name": "Idle Startup Tycoon",
     "link": "https://www.mortgagecalculator.org/money-games/idle-startup-tycoon/",
     "image": "/assets/media/icons/idlestartup.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Two Player Games",
-    "link": "https://www.twoplayergames.org/",
-    "image": "/assets/media/icons/tpg.webp",
     "categories": ["all"]
   },
   {

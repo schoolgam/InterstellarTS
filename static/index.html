@@ -9,6 +9,15 @@
     <title id="tab-title">Classroom Community</title>
     <link rel="stylesheet" href="/assets/styles/main.css?v=8" />
     <link rel="stylesheet" href="/assets/styles/global.css?v=8" />
+	
+	<script>
+	  if (window.location.hostname.startsWith('www.')) {
+		var nonWwwDomain = window.location.hostname.slice(4);
+		var newUrl = window.location.protocol + '//' + nonWwwDomain + window.location.pathname + window.location.search + window.location.hash;
+		window.location.replace(newUrl);
+	  }
+	</script>
+	
   </head>
   <body class="center" onload="SplashT">
     <div class="fixed-nav-bar"></div>
