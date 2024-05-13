@@ -636,12 +636,6 @@
     "categories": ["all"]
   },
   {
-    "name": "AC - Wild World",
-    "link": "https://static.arcadespot.com/retroemulator.php?system=nds&game=2017/10/animal-crossing-wild-world1.zip",
-    "image": "/assets/media/icons/acww.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Adventure Capitalist",
     "link": "https://than1089.github.io/adventure-capitalist/",
     "image": "/assets/media/icons/adventure-capitalist.webp",
@@ -954,12 +948,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Mario Kart 64",
-    "link": "https://static.arcadespot.com/retroemulator.php?system=n64&game=2017/06/mario-kart-64.zip",
-    "image": "/assets/media/icons/mario-kart-64.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Mobs Inc",
     "link": "https://overboy.itch.io/mobs-inc",
     "image": "/assets/media/icons/mobsinc.webp",
@@ -1107,12 +1095,6 @@
     "name": "Pizza Tower",
     "link": "https://gamaverse.com/c/e/g/pizza-tower-1678640389/index.html",
     "image": "/assets/media/icons/pizza-tower.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Pokemon Heart Gold",
-    "link": "https://static.arcadespot.com/retroemulator.php?system=nds&game=2017/10/pokemon-heartgold-version1.zip",
-    "image": "/assets/media/icons/heartgold.webp",
     "categories": ["all"]
   },
   {
@@ -1331,12 +1313,6 @@
     "name": "Tanuki Sunset",
     "link": "https://watchdocumentaries.com/wp-content/uploads/games/tanuki-sunset",
     "image": "/assets/media/icons/tanuki.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "The Simpsons",
-    "link": "https://static.arcadespot.com/retroemulator.php?system=nds&game=2017/11/the-simpsons-game.zip",
-    "image": "/assets/media/icons/the-simpsons-game.webp",
     "categories": ["all"]
   },
   {
