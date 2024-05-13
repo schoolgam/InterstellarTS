@@ -19,12 +19,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Newgrounds",
-    "link": "https://newgrounds.com/",
-    "image": "/assets/media/icons/newgrounds.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Pranx",
     "link": "https://pranx.com/",
     "image": "/assets/media/icons/pranx.webp",
@@ -271,14 +265,6 @@
     "link": "https://www.silvergames.com/en/learn-to-fly-3/iframe",
     "image": "/assets/media/icons/learntofly3.webp",
     "categories": ["all"]
-  },
-  {
-    "name": "Neal.Fun",
-    "link": "https://neal.fun",
-    "image": "/assets/media/icons/nealfun.webp",
-    "categories": ["all"],
-    "error": "true",
-    "say": "Neal.fun does not work on Interstellar because of Cloudflare protection."
   },
   {
     "name": "YoHoHo.io",
