@@ -7,7 +7,7 @@
     <meta http-equiv="X-Content-Type-Options" content="nosniff" />
     <link rel="shortcut icon" id="tab-favicon" href="favicon.png" />
     <title id="tab-title">Classroom Community</title>
-	<link rel="canonical" href="https://classroomcommunity.com/" />
+	
     <script src="./assets/-/bundle.js?v=5-5-2024"></script>
     <script src="./assets/-/config.js?v=5-5-2024"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -29,16 +29,44 @@
 <!-- WG Universal adCode -->
 	<script type="text/javascript" async>
 
-	if (document && document.domain == "classroomcommunity.com")
-	{
-		! function(e, t) {
-			a = e.createElement("script"), m = e.getElementsByTagName("script")[0], a.async = 1, a.src = t, m.parentNode
-				.insertBefore(a, m)
-		}(document, "https://universal.wgplayer.com/tag/?lh=" + window.location.hostname + "&wp=" + window.location
-			.pathname + "&ws=" + window.location.search);
-	}
-	
-	</script>
+function ensureCanonical(url) {
+    // Find any existing canonical link element
+    var canonicalLink = document.querySelector('link[rel="canonical"]');
+
+    // Check if a canonical link exists
+    if (canonicalLink) {
+        // Update the href attribute if it already exists
+        canonicalLink.href = url;
+    } else {
+        // Create a new link element for canonical
+        canonicalLink = document.createElement('link');
+        canonicalLink.rel = "canonical";
+        canonicalLink.href = url;
+
+        // Append the new canonical link to the head of the document
+        document.getElementsByTagName('head')[0].appendChild(canonicalLink);
+    }
+}
+
+function getPathFromUrl(url) {
+    const parsedUrl = new URL(url);
+    return parsedUrl.pathname;
+}
+
+if (document && document.domain == "classroomcommunity.com")
+{
+	! function(e, t) {
+		a = e.createElement("script"), m = e.getElementsByTagName("script")[0], a.async = 1, a.src = t, m.parentNode
+			.insertBefore(a, m)
+	}(document, "https://universal.wgplayer.com/tag/?lh=" + window.location.hostname + "&wp=" + window.location
+		.pathname + "&ws=" + window.location.search);
+}
+else
+{
+	ensureCanonical('https://classroomcommunity.com' + getPathFromUrl(window.location.href));
+}
+
+</script>
 
   </head>
   <body>
