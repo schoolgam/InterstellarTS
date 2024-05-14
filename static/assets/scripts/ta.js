@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
     const GoURL = sessionStorage.getItem("GoUrl")
 
     if (tabCounter === 1) {
-      if (GoURL.includes("/e/") || GoURL.includes("/lessons/")) {
+      if (GoURL.includes("/e/") || GoURL.includes("/lessons/") || GoURL.includes("https://scratch.mit.edu/")) {
         newIframe.src = window.location.origin + GoURL
       } else {
         newIframe.src = window.location.origin + "/a/" + GoURL
