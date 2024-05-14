@@ -18,6 +18,12 @@
     "categories": ["all", "local"]
   },
   {
+    "name": "Among Us (Scratch)",
+    "link": "https://scratch.mit.edu/projects/1019522721/embed",
+    "image": "/assets/media/icons/scratch-among-us.webp",
+    "categories": ["all", "local"]
+  },
+  {
     "name": "Flappy Bird",
     "link": "https://scratch.mit.edu/projects/989892163/embed",
     "image": "/lessons/scratch/flappy-bird/Flappy-Bird-Unblocked-lg.jpg",
@@ -661,12 +667,6 @@
     "name": "Agar.io",
     "link": "https://agar.io",
     "image": "/assets/media/icons/agario.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Among Us (Scratch)",
-    "link": "https://scratch.mit.edu/projects/1019522721/embed",
-    "image": "/assets/media/icons/scratch-among-us.webp",
     "categories": ["all"]
   },
   {
