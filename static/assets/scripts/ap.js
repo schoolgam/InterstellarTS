@@ -153,11 +153,11 @@ document.addEventListener("DOMContentLoaded", () => {
       return response.json()
     })
     .then((appsList) => {
-      appsList.sort((a, b) => {
-        if (a.name.startsWith("[Custom]")) return -1
-        if (b.name.startsWith("[Custom]")) return 1
-        return a.name.localeCompare(b.name)
-      })
+      // appsList.sort((a, b) => {
+        // if (a.name.startsWith("[Custom]")) return -1
+        // if (b.name.startsWith("[Custom]")) return 1
+        // return a.name.localeCompare(b.name)
+      // })
       const nonPinnedApps = document.querySelector(".container-apps")
       const pinnedApps = document.querySelector(".pinned-apps")
       var pinList = localStorage.getItem("Apinned") || ""
