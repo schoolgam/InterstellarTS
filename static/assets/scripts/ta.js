@@ -68,7 +68,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
 		}
       
     } else if (tabCounter !== 1) {
-      newIframe.src = "/"
+      //newIframe.src = "/"
+	  newIframe.src = "https://scratch.mit.edu/"
     } else if (GoURL !== null) {
 		
 		  if (GoURL.includes("https://scratch.mit.edu/"))
