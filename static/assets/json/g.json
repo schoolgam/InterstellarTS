@@ -18,6 +18,12 @@
     "categories": ["all", "local"]
   },
   {
+    "name": "Flappy Bird",
+    "link": "https://scratch.mit.edu/projects/989892163/embed",
+    "image": "/lessons/scratch/flappy-bird/Flappy-Bird-Unblocked-lg.jpg",
+    "categories": ["all", "local"]
+  },
+  {
     "name": "Slope",
     "link": "/lessons/2024/onl/slope/index.html",
     "image": "/lessons/2024/onl/slope/512.jpg",
