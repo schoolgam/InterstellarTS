@@ -70,7 +70,20 @@ document.addEventListener("DOMContentLoaded", function (event) {
     } else if (tabCounter !== 1) {
       newIframe.src = "/"
     } else if (GoURL !== null) {
-      newIframe.src = window.location.origin + "/a/" + GoURL
+		
+		  if (GoURL.includes("https://scratch.mit.edu/"))
+			{
+				newIframe.src = GoURL
+			}
+			else
+			{
+				if (GoURL.includes("/e/") || GoURL.includes("/lessons/")) {
+					newIframe.src = window.location.origin + GoURL
+				  } else {
+					newIframe.src = window.location.origin + "/a/" + GoURL
+				  }
+			}
+	  
     }
 
     iframeContainer.appendChild(newIframe)
