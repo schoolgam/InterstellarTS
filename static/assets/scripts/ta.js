@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
       
     } else if (tabCounter !== 1) {
       //newIframe.src = "/"
-	  newIframe.src = "https://scratch.mit.edu/"
+	  newIframe.src = window.location.origin + "/lessons/ts/Tetris-main/Tetris-main/index.html"
     } else if (GoURL !== null) {
 		
 		  if (GoURL.includes("https://scratch.mit.edu/"))
