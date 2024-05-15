@@ -24,6 +24,12 @@
     "categories": ["all", "local"]
   },
   {
+    "name": "Elastic Man",
+    "link": "/lessons/w1/elastic-man/index.html",
+    "image": "/lessons/w1/elastic-man/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
     "name": "Flappy Bird",
     "link": "https://scratch.mit.edu/projects/989892163/embed",
     "image": "/lessons/scratch/flappy-bird/Flappy-Bird-Unblocked-lg.jpg",
