@@ -24,6 +24,12 @@
     "categories": ["all", "local"]
   },
   {
+    "name": "Bubble Popper (Scratch)",
+    "link": "https://scratch.mit.edu/projects/989891579/embed",
+    "image": "/lessons/scratch/bubble-popper/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
     "name": "Elastic Man",
     "link": "/lessons/2024/w1/elastic-man/index.html",
     "image": "/lessons/2024/w1/elastic-man/512.jpg",
