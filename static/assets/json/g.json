@@ -24,6 +24,54 @@
     "categories": ["all", "local"]
   },
   {
+    "name": "Just Fall LOL",
+    "link": "/lessons/2024/w1/justfall-lol/index.html",
+    "image": "/lessons/2024/w1/justfall-lol/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Hole io",
+    "link": "/lessons/2020/void-city/index.html",
+    "image": "/lessons/2020/void-city/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Getaway Shootout",
+    "link": "/lessons/ts/GetawayShootout-master/GetawayShootout-master/index.html",
+    "image": "/lessons/ts/GetawayShootout-master/GetawayShootout-master/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Clicker Heroes",
+    "link": "/lessons/2024/w1/clicker-heroes/index.html",
+    "image": "/lessons/2024/w1/clicker-heroes/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Bloxorz",
+    "link": "/lessons/2024/gm/games4/bloxorz/index.html",
+    "image": "/lessons/2024/gm/games4/bloxorz/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Friday Night Funkin",
+    "link": "/lessons/2024/cube/friday-night-funkin/index.html",
+    "image": "/lessons/2024/cube/friday-night-funkin/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Wordle",
+    "link": "/lessons/ts/wordle/index.html",
+    "image": "/lessons/ts/wordle/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Basket Random",
+    "link": "/lessons/ts/basket-random/index.html",
+    "image": "/lessons/ts/basket-random/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
     "name": "Wordle Unlimited",
     "link": "/lessons/2024/w1/wordle-unlimited/index.html",
     "image": "/lessons/2024/w1/wordle-unlimited/512.jpg",
@@ -760,12 +808,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Basket Random",
-    "link": "https://html5.gamedistribution.com/rvvASMiM/bf1268dccb5d43e7970bb3edaa54afc8/index.html",
-    "image": "/assets/media/icons/br.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Basketball Stars",
     "link": "https://html5.gamedistribution.com/69d78d071f704fa183d75b4114ae40ec/",
     "image": "/assets/media/icons/basketball-stars.webp",
@@ -985,12 +1027,6 @@
     "name": "HexArena",
     "link": "https://hexarena.io/",
     "image": "/assets/media/icons/hexarena.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Hole.IO",
-    "link": "https://hole-io.com/",
-    "image": "/assets/media/icons/hole.webp",
     "categories": ["all"]
   },
   {
