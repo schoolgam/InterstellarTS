@@ -24,19 +24,67 @@
     "categories": ["all", "local"]
   },
   {
-    "name": "Bullet Force Guerrillas Unblocked",
+    "name": "Wordle Unlimited",
+    "link": "/lessons/2024/w1/wordle-unlimited/index.html",
+    "image": "/lessons/2024/w1/wordle-unlimited/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Candy Crush",
+    "link": "/lessons/2024/onl/candy-crush/index.html",
+    "image": "/lessons/2024/onl/candy-crush/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Boxing Random",
+    "link": "/lessons/ts/boxing-random/index.html",
+    "image": "/lessons/ts/boxing-random/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Volley Random",
+    "link": "/lessons/ts/volley-random/index.html",
+    "image": "/lessons/ts/volley-random/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Fortnite 2D (Scratch)",
+    "link": "https://scratch.mit.edu/projects/989889240/embed/",
+    "image": "/lessons/scratch/fortnite-2d/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Bitlife",
+    "link": "/lessons/2024/unity/e-life-simulation/index.html",
+    "image": "/lessons/2024/unity/e-life-simulation/logo.png",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "There Is No Game",
+    "link": "/lessons/ts/there-is-no-game/index.html",
+    "image": "/lessons/ts/there-is-no-game/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Highway Traffic",
+    "link": "/lessons/2022/unity/highway-traffic/index.html",
+    "image": "/lessons/2022/unity/highway-traffic/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Bullet Force Guerrillas",
     "link": "/lessons/2024/onl/bullet-force-guerrillas/index.html",
     "image": "/lessons/2024/onl/bullet-force-guerrillas/512.jpg",
     "categories": ["all", "local"]
   },
   {
-    "name": "Capybara Clicker Unblocked",
+    "name": "Capybara Clicker",
     "link": "/lessons/2024/onl/capybara-clicker/index.html",
     "image": "/lessons/2024/onl/capybara-clicker/512.jpg",
     "categories": ["all", "local"]
   },
   {
-    "name": "Stick Battle Unblocked",
+    "name": "Stick Battle",
     "link": "/lessons/2024/code/7/stick-battle/index.html",
     "image": "/lessons/2024/code/7/stick-battle/512.jpg",
     "categories": ["all", "local"]
@@ -372,12 +420,6 @@
     "name": "Merge Fruit",
     "link": "https://html5.gamedistribution.com/2dee9d404697435aa76111eb4015e1d5/",
     "image": "/assets/media/icons/mergefruit.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "There Is No Game",
-    "link": "https://5dd2d607-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/38959ae1-110b-49ab-86ae-df425fd7862a/index.html",
-    "image": "/assets/media/icons/thereisnogame.webp",
     "categories": ["all"]
   },
   {
@@ -745,12 +787,6 @@
     "name": "Biggie Cheese Fight",
     "link": "https://scratch.mit.edu/projects/163771748/fullscreen",
     "image": "/assets/media/icons/biggiecheese.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Bitlife",
-    "link": "https://xlegends.github.io/bitlife/",
-    "image": "/assets/media/icons/bitlife.webp",
     "categories": ["all"]
   },
   {
