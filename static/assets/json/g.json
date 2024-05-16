@@ -25,6 +25,48 @@
   },
 
   {
+    "name": "Mine Clone",
+    "link": "/lessons/2022/unity/mine-clone/index.html",
+    "image": "/lessons/2022/unity/mine-clone/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Eaglercraft",
+    "link": "/lessons/ts/eaglercraft/index.html",
+    "image": "/lessons/ts/eaglercraft/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "City Stunts",
+    "link": "/lessons/2023/unity3/city-stunts/index.html",
+    "image": "/lessons/2023/unity3/city-stunts/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Crazy Moto Racing",
+    "link": "/lessons/2022/unity3/crazy-moto-racing/index.html",
+    "image": "/lessons/2022/unity3/crazy-moto-racing/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Mini Shooters",
+    "link": "/lessons/2021/5/mini-shooters/index.html",
+    "image": "/lessons/2021/5/mini-shooters/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "ArmedForces io",
+    "link": "/lessons/2021/unity3/armedforces-io/index.html",
+    "image": "/lessons/2021/unity3/armedforces-io/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Tap Tap Shots",
+    "link": "/lessons/2023/q/1/tap-tap-shots/index.html",
+    "image": "/lessons/2023/q/1/tap-tap-shots/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
     "name": "Drunken Duel",
     "link": "/lessons/2024/code/2/drunken-duel/index.html",
     "image": "/lessons/2024/code/2/drunken-duel/512.jpg",
