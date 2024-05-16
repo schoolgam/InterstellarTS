@@ -18,12 +18,6 @@
     "categories": ["all", "local"]
   },
   {
-    "name": "Among Us",
-    "link": "/lessons/2024/w1/among-us/index.html",
-    "image": "/lessons/2024/w1/among-us/512.jpg",
-    "categories": ["all", "local"]
-  },
-  {
     "name": "Among Us (Scratch)",
     "link": "https://scratch.mit.edu/projects/1019522721/embed",
     "image": "/assets/media/icons/scratch-among-us.webp",
