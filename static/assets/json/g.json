@@ -49,6 +49,12 @@
       "categories": ["all", "local"]
   }, 
   {
+    "name": "Drift Hunters",
+    "link": "/lessons/2024/w1/drift-hunters/index.html",
+    "image": "/lessons/2024/w1/drift-hunters/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
       "name": "Powerslide Kart Simulator",
       "link": "/lessons/2022/unity3/powerslide-kart-simulator/index.html",
       "image": "/lessons/2022/unity3/powerslide-kart-simulator/512.jpg",
