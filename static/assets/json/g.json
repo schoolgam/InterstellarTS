@@ -25,6 +25,54 @@
   },
   
   {
+    "name": "FNAF World (Scratch)",
+    "link": "https://scratch.mit.edu/projects/989882644/embed",
+    "image": "/lessons/scratch/fnaf-world/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "FNAF 4 (Scratch)",
+    "link": "https://scratch.mit.edu/projects/989883548/embed",
+    "image": "/lessons/scratch/fnaf-4/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "FNAF Sister Location (Scratch)",
+    "link": "https://scratch.mit.edu/projects/989884588/embed",
+    "image": "/lessons/scratch/fnaf-sister/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Moto X3M Pool Party",
+    "link": "/lessons/ts/moto-x3m-pool-party/index.html",
+    "image": "/lessons/ts/moto-x3m-pool-party/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Moto X3M Spooky Land",
+    "link": "/lessons/ts/moto-x3m-spooky-land/index.html",
+    "image": "/lessons/ts/moto-x3m-spooky-land/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Moto X3M Winter",
+    "link": "/lessons/ts/moto-x3m-winter/index.html",
+    "image": "/lessons/ts/moto-x3m-winter/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Moto X3M",
+    "link": "/lessons/ts/moto-x3m/index.html",
+    "image": "/lessons/ts/moto-x3m/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Rooftop Snipers",
+    "link": "/lessons/ts/rooftop-snipers-main/index.html",
+    "image": "/lessons/ts/rooftop-snipers-main/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
     "name": "Drift Hunters",
     "link": "/lessons/2024/w1/drift-hunters/2048.html",
     "image": "/lessons/2024/w1/drift-hunters/512.jpg",
