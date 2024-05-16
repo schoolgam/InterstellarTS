@@ -31,6 +31,72 @@
   },
 
   {
+      "name": "Duck Life 4",
+      "link": "/lessons/2024/flash/duck-life-4/index.html",
+      "image": "/lessons/2024/flash/duck-life-4/512.jpg",
+      "categories": ["all", "local"]
+  }, 
+  {
+      "name": "Duck Life 3",
+      "link": "/lessons/2024/flash/duck-life-3/index.html",
+      "image": "/lessons/2024/flash/duck-life-3/512.jpg",
+      "categories": ["all", "local"]
+  }, 
+  {
+      "name": "Duck Life 2",
+      "link": "/lessons/2024/flash/duck-life-2/index.html",
+      "image": "/lessons/2024/flash/duck-life-2/512.jpg",
+      "categories": ["all", "local"]
+  }, 
+  {
+      "name": "Duck Life 1",
+      "link": "/lessons/2024/flash/duck-life/index.html",
+      "image": "/lessons/2024/flash/duck-life/512.jpg",
+      "categories": ["all", "local"]
+  }, 
+  {
+      "name": "Powerslide Kart Simulator",
+      "link": "/lessons/2022/unity3/powerslide-kart-simulator/index.html",
+      "image": "/lessons/2022/unity3/powerslide-kart-simulator/512.jpg",
+      "categories": ["all", "local"]
+  }, 
+  {
+      "name": "Stunt Simulator Multiplayer",
+      "link": "/lessons/2021/unity/stunt-simulator-multiplayer/index.html",
+      "image": "/lessons/2021/unity/stunt-simulator-multiplayer/512.jpg",
+      "categories": ["all", "local"]
+  }, 
+  {
+      "name": "Stunt Simulator 2",
+      "link": "/lessons/2021/unity3/stunt-simulator-2/index.html",
+      "image": "/lessons/2021/unity3/stunt-simulator-2/512.jpg",
+      "categories": ["all", "local"]
+  }, 
+  {
+      "name": "City Police Cars",
+      "link": "/lessons/2021/2/city-police-cars/index.html",
+      "image": "/lessons/2021/2/city-police-cars/512.jpg",
+      "categories": ["all", "local"]
+  }, 
+  {
+      "name": "Hero Rush Tower Defense",
+      "link": "/lessons/2023/unity/hero-rush-tower-defense/index.html",
+      "image": "/lessons/2023/unity/hero-rush-tower-defense/512.jpg",
+      "categories": ["all", "local"]
+  },  
+  {
+      "name": "CobraZ io Classic",
+      "link": "/lessons/2022/unity/cobraz-io-classic/index.html",
+      "image": "/lessons/2022/unity/cobraz-io-classic/512.jpg",
+      "categories": ["all", "local"]
+  },  
+  {
+      "name": "Stick Guys Defense",
+      "link": "/lessons/2022/unity3/stick-guys-defense/index.html",
+      "image": "/lessons/2022/unity3/stick-guys-defense/512.jpg",
+      "categories": ["all", "local"]
+  },  
+  {
     "name": "Mine Clone",
     "link": "/lessons/2022/unity/mine-clone/index.html",
     "image": "/lessons/2022/unity/mine-clone/512.jpg",
