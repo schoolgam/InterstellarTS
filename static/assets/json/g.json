@@ -49,9 +49,15 @@
       "categories": ["all", "local"]
   }, 
   {
-    "name": "Drift Hunters",
-    "link": "/lessons/2024/w1/drift-hunters/index.html",
-    "image": "/lessons/2024/w1/drift-hunters/512.jpg",
+    "name": "Drift Hunters 1",
+    "link": "/lessons/2023/unity3/drift-hunters/index.html",
+    "image": "/lessons/2023/unity3/drift-hunters/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Drift Hunters 2024",
+    "link": "/lessons/2024/unity/drift-hunters-2024/index.html",
+    "image": "/lessons/2024/unity/drift-hunters-2024/512.jpg",
     "categories": ["all", "local"]
   },
   {
