@@ -23,7 +23,55 @@
     "image": "/assets/media/icons/scratch-among-us.webp",
     "categories": ["all", "local"]
   },
-  
+
+  {
+    "name": "Five Nights at Freddy's",
+    "link": "/lessons/2024/w1/five-nights-at-freddys/index.html",
+    "image": "/lessons/2024/w1/five-nights-at-freddys/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Minecraft Classic",
+    "link": "/lessons/2024/cube/classicube/index.html",
+    "image": "/lessons/2024/cube/classicube/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Getting Over It (Scratch)",
+    "link": "https://scratch.mit.edu/projects/989885143/embed",
+    "image": "/lessons/scratch/getting-over-it/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Geometry Dash (Scratch)",
+    "link": "https://scratch.mit.edu/projects/989885729/embed",
+    "image": "/lessons/scratch/geometry-dash/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Five Nights at Freddy's 2",
+    "link": "/lessons/2024/w1/five-nights-at-freddys-2/index.html",
+    "image": "/lessons/2024/w1/five-nights-at-freddys-2/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Basketball Stars",
+    "link": "/lessons/ts/basketball-stars/index.html",
+    "image": "/lessons/ts/basketball-stars/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Cookie Clicker",
+    "link": "/lessons/ts/cookie-clicker-main/index.html",
+    "image": "/lessons/ts/cookie-clicker-main/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "FNAF 3 (Scratch)",
+    "link": "https://scratch.mit.edu/projects/989880729/embed/",
+    "image": "/lessons/scratch/fnaf-3/512.jpg",
+    "categories": ["all", "local"]
+  },
   {
     "name": "FNAF World (Scratch)",
     "link": "https://scratch.mit.edu/projects/989882644/embed",
