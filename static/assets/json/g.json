@@ -18,6 +18,61 @@
     "categories": ["all", "local"]
   },
   {
+    "name": "Among Us (Scratch)",
+    "link": "https://scratch.mit.edu/projects/1019522721/embed",
+    "image": "/assets/media/icons/scratch-among-us.webp",
+    "categories": ["all", "local"]
+  },
+  
+  {
+    "name": "Drift Hunters",
+    "link": "/lessons/2024/w1/drift-hunters/2048.html",
+    "image": "/lessons/2024/w1/drift-hunters/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "2048",
+    "link": "/lessons/ts/2048.html",
+    "image": "/lessons/ts/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Doge Miner",
+    "link": "/lessons/ts/DogeMiner-main/DogeMiner-main/index.html",
+    "image": "/lessons/ts/DogeMiner-main/DogeMiner-main/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "CSGO Surf (Scratch)",
+    "link": "https://scratch.mit.edu/projects/989886101/embed",
+    "image": "/lessons/scratch/csgo-surf/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Geometry Dash Remastered",
+    "link": "/lessons/ts/geometry-dash-remastered/index.html",
+    "image": "/lessons/ts/geometry-dash-remastered/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Slope 2",
+    "link": "/lessons/ts/slope-2/index.html",
+    "image": "/lessons/ts/slope-2/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Paper Minecraft (Scratch)",
+    "link": "https://scratch.mit.edu/projects/10128407/embed",
+    "image": "/lessons/scratch/paper-minecraft/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Ball Blast (Scratch)",
+    "link": "https://scratch.mit.edu/projects/989887959/embed",
+    "image": "/lessons/scratch/ball-blast/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
     "name": "Rocket League",
     "link": "/lessons/2024/w1/rocket-league/index.html",
     "image": "/lessons/2024/w1/rocket-league/512.jpg",
