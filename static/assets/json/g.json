@@ -25,6 +25,54 @@
   },
 
   {
+    "name": "Drunken Duel",
+    "link": "/lessons/2024/code/2/drunken-duel/index.html",
+    "image": "/lessons/2024/code/2/drunken-duel/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Drift Hunters 2",
+    "link": "/lessons/2024/unity/drift-hunters-2/index.html",
+    "image": "/lessons/2024/unity/drift-hunters-2/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Get on Top",
+    "link": "/lessons/2024/code/6/get-on-top/index.html",
+    "image": "/lessons/2024/code/6/get-on-top/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "GTA",
+    "link": "/lessons/2024/onl/gta/index.html",
+    "image": "/lessons/2024/onl/gta/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Parking Fury",
+    "link": "/lessons/2024/onl/parking-fury/index.html",
+    "image": "/lessons/2024/onl/parking-fury/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Survival Race",
+    "link": "/lessons/2024/more/survival-race/index.html",
+    "image": "/lessons/2024/more/survival-race/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Among Us",
+    "link": "/lessons/2024/w1/among-us/index.html",
+    "image": "/lessons/2024/w1/among-us/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "1v1 LOL",
+    "link": "/lessons/ts/1v1lol/index.html",
+    "image": "/lessons/ts/1v1lol/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
     "name": "Five Nights at Freddy's",
     "link": "/lessons/2024/w1/five-nights-at-freddys/index.html",
     "image": "/lessons/2024/w1/five-nights-at-freddys/512.jpg",
