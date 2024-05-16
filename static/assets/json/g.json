@@ -18,9 +18,57 @@
     "categories": ["all", "local"]
   },
   {
-    "name": "Among Us (Scratch)",
-    "link": "https://scratch.mit.edu/projects/1019522721/embed",
-    "image": "/assets/media/icons/scratch-among-us.webp",
+    "name": "Crossy Road",
+    "link": "/lessons/2024/onl/crossy-road/index.html",
+    "image": "/lessons/2024/onl/crossy-road/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Paper io",
+    "link": "/lessons/2023/unity3/paper-io/index.html",
+    "image": "/lessons/2023/unity3/paper-io/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Bubble Shooter",
+    "link": "/lessons/2024/w1/bubble-shooter/index.html",
+    "image": "/lessons/2024/w1/bubble-shooter/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "A Small World Cup",
+    "link": "/lessons/2024/w1/a-small-world-cup/index.html",
+    "image": "/lessons/2024/w1/a-small-world-cup/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Run 3",
+    "link": "/lessons/2024/onl/run-3/index.html",
+    "image": "/lessons/2024/onl/run-3/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Color Tunnel",
+    "link": "/lessons/2024/w1/color-tunnel/index.html",
+    "image": "/lessons/2024/w1/color-tunnel/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Subway Runner",
+    "link": "/lessons/2024/onl/subway-runner/index.html",
+    "image": "/lessons/2024/onl/subway-runner/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Snake io",
+    "link": "/lessons/2024/onl/snake-io/index.html",
+    "image": "/lessons/2024/onl/snake-io/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Just Fall LOL",
+    "link": "/lessons/2024/w1/justfall-lol/index.html",
+    "image": "/lessons/2024/w1/justfall-lol/512.jpg",
     "categories": ["all", "local"]
   },
   {
