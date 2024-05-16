@@ -6,15 +6,21 @@
     "custom": "true"
   },
   {
-    "name": "1v1 lol",
+    "name": "1v1 LOL",
     "link": "/lessons/ts/1v1lol/index.html",
-    "image": "/lessons/ts/1v1lol/1v1lol.png",
+    "image": "/lessons/ts/1v1lol/512.jpg",
     "categories": ["all", "local"]
   },
   {
     "name": "Amongus",
     "link": "/lessons/ts/among-us/index.html",
     "image": "/lessons/ts/among-us/amongus.jpeg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Among Us",
+    "link": "/lessons/2024/w1/among-us/index.html",
+    "image": "/lessons/2024/w1/among-us/512.jpg",
     "categories": ["all", "local"]
   },
   {
@@ -73,12 +79,6 @@
     "categories": ["all", "local"]
   },
   {
-    "name": "Drift Hunters 2",
-    "link": "/lessons/2024/unity/drift-hunters-2/index.html",
-    "image": "/lessons/2024/unity/drift-hunters-2/512.jpg",
-    "categories": ["all", "local"]
-  },
-  {
     "name": "Get on Top",
     "link": "/lessons/2024/code/6/get-on-top/index.html",
     "image": "/lessons/2024/code/6/get-on-top/512.jpg",
@@ -100,18 +100,6 @@
     "name": "Survival Race",
     "link": "/lessons/2024/more/survival-race/index.html",
     "image": "/lessons/2024/more/survival-race/512.jpg",
-    "categories": ["all", "local"]
-  },
-  {
-    "name": "Among Us",
-    "link": "/lessons/2024/w1/among-us/index.html",
-    "image": "/lessons/2024/w1/among-us/512.jpg",
-    "categories": ["all", "local"]
-  },
-  {
-    "name": "1v1 LOL",
-    "link": "/lessons/ts/1v1lol/index.html",
-    "image": "/lessons/ts/1v1lol/512.jpg",
     "categories": ["all", "local"]
   },
   {
@@ -208,12 +196,6 @@
     "name": "Rooftop Snipers",
     "link": "/lessons/ts/rooftop-snipers-main/index.html",
     "image": "/lessons/ts/rooftop-snipers-main/512.jpg",
-    "categories": ["all", "local"]
-  },
-  {
-    "name": "Drift Hunters",
-    "link": "/lessons/2024/w1/drift-hunters/2048.html",
-    "image": "/lessons/2024/w1/drift-hunters/512.jpg",
     "categories": ["all", "local"]
   },
   {
