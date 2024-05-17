@@ -25,6 +25,97 @@
   },
 
   {
+    "name": "Diablo",
+    "link": "/lessons/2024/more/diablo/index.html",
+    "image": "/lessons/2024/more/diablo/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Eaglercraft",
+    "link": "/lessons/2024/more/eaglercraft/index.html",
+    "image": "/lessons/2024/more/eaglercraft/512x512.png",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Five Nights at Candy's",
+    "link": "/lessons/2024/more/five-nights-at-candys/index.html",
+    "image": "/lessons/2024/more/five-nights-at-candys/512x512.jfif",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Flappy Basketball",
+    "link": "/lessons/2024/more/flappy-basketball/index.html",
+    "image": "/lessons/2024/more/flappy-basketball/512x512.png",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Football Legends",
+    "link": "/lessons/2024/more/football-legends/index.html",
+    "image": "/lessons/2024/more/football-legends/512x512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Mine Clone",
+    "link": "/lessons/2024/more/mine-clone/index.html",
+    "image": "/lessons/2024/more/mine-clone/512x512.png",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Noob End World",
+    "link": "/lessons/2024/more/noob-end-world/index.html",
+    "image": "/lessons/2024/more/noob-end-world/512x512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Only Up Robby",
+    "link": "/lessons/2024/more/only-up-robby/index.html",
+    "image": "/lessons/2024/more/only-up-robby/512x512.png",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "President Simulator",
+    "link": "/lessons/2024/more/president-simulator/index.html",
+    "image": "/lessons/2024/more/president-simulator/512x512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Slow Roads",
+    "link": "/lessons/2024/more/slow-roads/index.html",
+    "image": "/lessons/2024/more/slow-roads/512x512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Spacebar Clicker",
+    "link": "/lessons/2024/more/spacebar-clicker/index.html",
+    "image": "/lessons/2024/more/spacebar-clicker/512.webp",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "We Become What We Behold",
+    "link": "/lessons/2024/more/we-become-what-we-behold/index.html",
+    "image": "/lessons/2024/more/we-become-what-we-behold/512x512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "World of Blocks",
+    "link": "/lessons/2024/more/world-of-blocks/index.html",
+    "image": "/lessons/2024/more/world-of-blocks/512x512.jpg",
+    "categories": ["all", "local"]
+  },
+
+  {
+    "name": "Drift Hunters 1",
+    "link": "/lessons/2023/unity3/drift-hunters/index.html",
+    "image": "/lessons/2023/unity3/drift-hunters/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Drift Hunters 2024",
+    "link": "/lessons/2024/unity/drift-hunters-2024/index.html",
+    "image": "/lessons/2024/unity/drift-hunters-2024/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
       "name": "Duck Life 4",
       "link": "/lessons/2024/flash/duck-life-4/index.html",
       "image": "/lessons/2024/flash/duck-life-4/512.jpg",
@@ -94,12 +185,6 @@
     "name": "Mine Clone",
     "link": "/lessons/2022/unity/mine-clone/index.html",
     "image": "/lessons/2022/unity/mine-clone/512.jpg",
-    "categories": ["all", "local"]
-  },
-  {
-    "name": "Eaglercraft",
-    "link": "/lessons/ts/eaglercraft/index.html",
-    "image": "/lessons/ts/eaglercraft/512.jpg",
     "categories": ["all", "local"]
   },
   {
