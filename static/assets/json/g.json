@@ -23,7 +23,231 @@
     "image": "/assets/media/icons/scratch-among-us.webp",
     "categories": ["all", "local"]
   },
+  
+  {
+    "name": "War of Tanks Paper Note",
+    "link": "/lessons/2024/code/1/war-of-tanks-paper-note/index.html",
+    "image": "/lessons/2024/code/1/war-of-tanks-paper-note/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Fish Soccer",
+    "link": "/lessons/2024/code/4/fish-soccer/index.html",
+    "image": "/lessons/2024/code/4/fish-soccer/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Shark io",
+    "link": "/lessons/2024/code/5/shark-io/index.html",
+    "image": "/lessons/2024/code/5/shark-io/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Bricks and Balls",
+    "link": "/lessons/2024/code/12/bricks-and-balls/index.html",
+    "image": "/lessons/2024/code/12/bricks-and-balls/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Tic Tac Toe Blackboard",
+    "link": "/lessons/2024/code/13/tic-tac-toe-blackboard/index.html",
+    "image": "/lessons/2024/code/13/tic-tac-toe-blackboard/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Drag Racing",
+    "link": "/lessons/2024/code/drag-racing/index.html",
+    "image": "/lessons/2024/code/drag-racing/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Dreamlike Room",
+    "link": "/lessons/2024/code/dreamlike-room/index.html",
+    "image": "/lessons/2024/code/dreamlike-room/512.jpeg",
+    "categories": ["all", "local"]
+  },
 
+
+  {
+    "name": "Awesome Pirates",
+    "link": "/lessons/2024/flash/awesome-pirates/index.html",
+    "image": "/lessons/2024/flash/awesome-pirates/512.webp",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Bloons TD 3",
+    "link": "/lessons/2024/flash/bloons-tower-defense-3/index.html",
+    "image": "/lessons/2024/flash/bloons-tower-defense-3/512.webp",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Doom 2D",
+    "link": "/lessons/2024/flash/doom-2d/index.html",
+    "image": "/lessons/2024/flash/doom-2d/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Electric Man 2",
+    "link": "/lessons/2024/flash/electric-man-2/index.html",
+    "image": "/lessons/2024/flash/electric-man-2/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Learn to Fly",
+    "link": "/lessons/2024/flash/learn-to-fly/index.html",
+    "image": "/lessons/2024/flash/learn-to-fly/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Learn to Fly 2",
+    "link": "/lessons/2024/flash/learn-to-fly-2/index.html",
+    "image": "/lessons/2024/flash/learn-to-fly-2/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Learn to Fly 3",
+    "link": "/lessons/2024/flash/learn-to-fly-3/index.html",
+    "image": "/lessons/2024/flash/learn-to-fly-3/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Learn to Fly Idle",
+    "link": "/lessons/2024/flash/learn-to-fly-idle/index.html",
+    "image": "/lessons/2024/flash/learn-to-fly-idle/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Raft Wars",
+    "link": "/lessons/2024/flash/raft-wars/index.html",
+    "image": "/lessons/2024/flash/raft-wars/512.png",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Siegius",
+    "link": "/lessons/2024/flash/siegius/index.html",
+    "image": "/lessons/2024/flash/siegius/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Strike Force Heroes",
+    "link": "/lessons/2024/flash/strike-force-heroes/index.html",
+    "image": "/lessons/2024/flash/strike-force-heroes/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Strike Force Heroes 2",
+    "link": "/lessons/2024/flash/strike-force-heroes-2/index.html",
+    "image": "/lessons/2024/flash/strike-force-heroes-2/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Territory War",
+    "link": "/lessons/2024/flash/territory-war/index.html",
+    "image": "/lessons/2024/flash/territory-war/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Counter Craft",
+    "link": "/lessons/2024/gm/games6/counter-craft/index.html",
+    "image": "/lessons/2024/gm/games6/counter-craft/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Doggo Clicker",
+    "link": "/lessons/2024/gm/games4/doggo-clicker/index.html",
+    "image": "/lessons/2024/gm/games4/doggo-clicker/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Simple Loot Idle",
+    "link": "/lessons/2024/gm/games3/simple-loot-idle/index.html",
+    "image": "/lessons/2024/gm/games3/simple-loot-idle/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Skibidi Strike",
+    "link": "/lessons/2024/gm/games2/skibidi-strike/index.html",
+    "image": "/lessons/2024/gm/games2/skibidi-strike/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Drift City",
+    "link": "/lessons/2024/gm/games2/drift-city/index.html",
+    "image": "/lessons/2024/gm/games2/drift-city/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Soccer Masters",
+    "link": "/lessons/2024/gm/soccer-masters/index.html",
+    "image": "/lessons/2024/gm/soccer-masters/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Tennis Masters",
+    "link": "/lessons/2024/gm/tennis-masters/index.html",
+    "image": "/lessons/2024/gm/tennis-masters/512.jpeg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Classicube",
+    "link": "/lessons/2024/cube/classicube/index.html",
+    "image": "/lessons/2024/cube/classicube/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Friday Night Funkin",
+    "link": "/lessons/2024/cube/friday-night-funkin/index.html",
+    "image": "/lessons/2024/cube/friday-night-funkin/512.png",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "State io Wars",
+    "link": "/lessons/2024/construct/233/state-io-wars/index.html",
+    "image": "/lessons/2024/construct/233/state-io-wars/512.png",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Egg Clicker",
+    "link": "/lessons/2024/construct/291/egg-clicker/index.html",
+    "image": "/lessons/2024/construct/291/egg-clicker/512.png",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Car Stunt King",
+    "link": "/lessons/2024/unity/car-stunt-king/index.html",
+    "image": "/lessons/2024/unity/car-stunt-king/512.webp",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Drift King",
+    "link": "/lessons/2024/unity/drift-king/index.html",
+    "image": "/lessons/2024/unity/drift-king/512.webp",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Funny Shooter Bro",
+    "link": "/lessons/2024/unity/funny-shooter-bro/index.html",
+    "image": "/lessons/2024/unity/funny-shooter-bro/512.webp",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Hero Tower",
+    "link": "/lessons/2024/unity/hero-tower/index.html",
+    "image": "/lessons/2024/unity/hero-tower/512.webp",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Snake Wars",
+    "link": "/lessons/2024/unity/snake-wars/index.html",
+    "image": "/lessons/2024/unity/snake-wars/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Stunt Rider",
+    "link": "/lessons/2024/unity/stunt-rider/index.html",
+    "image": "/lessons/2024/unity/stunt-rider/512.jpg",
+    "categories": ["all", "local"]
+  },
   {
     "name": "Diablo",
     "link": "/lessons/2024/more/diablo/index.html",
