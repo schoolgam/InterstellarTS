@@ -79,24 +79,6 @@
     "categories": ["all", "local"]
   },
   {
-    "name": "Strike Force Heroes",
-    "link": "/lessons/2024/flash/strike-force-heroes/index.html",
-    "image": "/lessons/2024/flash/strike-force-heroes/512.jpg",
-    "categories": ["all", "local"]
-  },
-  {
-    "name": "Strike Force Heroes 2",
-    "link": "/lessons/2024/flash/strike-force-heroes-2/index.html",
-    "image": "/lessons/2024/flash/strike-force-heroes-2/512.jpg",
-    "categories": ["all", "local"]
-  },
-  {
-    "name": "Territory War",
-    "link": "/lessons/2024/flash/territory-war/index.html",
-    "image": "/lessons/2024/flash/territory-war/512.jpg",
-    "categories": ["all", "local"]
-  },
-  {
     "name": "Counter Craft",
     "link": "/lessons/2024/gm/games6/counter-craft/index.html",
     "image": "/lessons/2024/gm/games6/counter-craft/512.jpg",
@@ -833,6 +815,24 @@
     "name": "Doom 2D",
     "link": "/lessons/2024/flash/doom-2d/index.html",
     "image": "/lessons/2024/flash/doom-2d/512.jpg",
+    "categories": ["all", "local"]
+  },
+    {
+    "name": "Strike Force Heroes",
+    "link": "/lessons/2024/flash/strike-force-heroes/index.html",
+    "image": "/lessons/2024/flash/strike-force-heroes/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Strike Force Heroes 2",
+    "link": "/lessons/2024/flash/strike-force-heroes-2/index.html",
+    "image": "/lessons/2024/flash/strike-force-heroes-2/512.jpg",
+    "categories": ["all", "local"]
+  },
+  {
+    "name": "Territory War",
+    "link": "/lessons/2024/flash/territory-war/index.html",
+    "image": "/lessons/2024/flash/territory-war/512.jpg",
     "categories": ["all", "local"]
   },
   {
