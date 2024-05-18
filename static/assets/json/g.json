@@ -898,12 +898,6 @@
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Madden NFL 24",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.ea.gp.maddennfl21mobile&partner=interstellar",
-    "image": "/assets/media/icons/maddennfl24.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
     "name": "Fortnite (Now.GG)",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.epicgames.fortnite&partner=interstellar",
     "image": "/assets/media/icons/fortnite.webp",
