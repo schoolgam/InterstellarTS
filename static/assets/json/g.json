@@ -736,12 +736,6 @@
     "categories": ["all", "local"]
   },
   {
-    "name": "Friday Night Funkin",
-    "link": "/lessons/2024/cube/friday-night-funkin/index.html",
-    "image": "/lessons/2024/cube/friday-night-funkin/512.jpg",
-    "categories": ["all", "local"]
-  },
-  {
     "name": "Wordle",
     "link": "/lessons/ts/wordle/index.html",
     "image": "/lessons/ts/wordle/512.jpg",
@@ -881,14 +875,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Steam",
-    "link": "https://steampowered.com/",
-    "image": "/assets/media/icons/steam.webp",
-    "categories": ["all"],
-    "say": "Steam can't actually be added because it's an app, not a website. This only lets you browse the Steam website, you can't actually play any games unless you use Geforce Now.",
-    "partial": true
-  },
-  {
     "name": "Swordbattle.io",
     "link": "https://swordbattle.io/",
     "image": "/assets/media/icons/swordbattle.webp",
@@ -976,12 +962,6 @@
     "name": "Gladihoppers",
     "link": "https://bonbang.github.io/store99/gladihoppers/index.html",
     "image": "/assets/media/icons/gladihoppers.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "3 Slices",
-    "link": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2F3-slices.xml",
-    "image": "/assets/media/icons/3slices.webp",
     "categories": ["all"]
   },
   {
@@ -1075,24 +1055,6 @@
     "categories": ["all", "2P"]
   },
   {
-    "name": "Tunnel Rush",
-    "link": "https://5dd2e8e4-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/5627efae-e960-407d-82a5-3da708eb4e68/index.html",
-    "image": "/assets/media/icons/tunnelrush.webp",
-    "categories": ["all", "2P"]
-  },
-  {
-    "name": "Tunnel Rush 2",
-    "link": "https://a7e6d137-c3c1-46e6-a3db-04c2d33c98a8.poki-gdn.com/71e6bddd-9b0e-4621-a11a-9503086f69d5/index.html",
-    "image": "/assets/media/icons/tunnelrush2.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Rainbow Obby",
-    "link": "https://785a4295-96c4-43e5-b237-fb07fc3ef44d.poki-gdn.com/f1d39f75-7a25-41de-86cf-ba00804737b5/index.html",
-    "image": "/assets/media/icons/rainbowobby.webp",
-    "categories": ["all", "2P"]
-  },
-  {
     "name": "Candy Jump",
     "link": "https://candyjump.games235.com/",
     "image": "/assets/media/icons/candyjump.webp",
@@ -1109,12 +1071,6 @@
     "link": "https://classic.minecraft.net",
     "image": "/assets/media/icons/mc.webp",
     "categories": ["all", "2P"]
-  },
-  {
-    "name": "Learn to Fly 3",
-    "link": "https://www.silvergames.com/en/learn-to-fly-3/iframe",
-    "image": "/assets/media/icons/learntofly3.webp",
-    "categories": ["all"]
   },
   {
     "name": "YoHoHo.io",
@@ -1213,36 +1169,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Fireboy And Watergirl 2 In The Light Temple",
-    "link": "https://www.coolmathgames.com/sites/default/files/public_games/40210/",
-    "image": "/assets/media/icons/fireboyandwatergirllighttemple.webp",
-    "categories": ["all", "2P"]
-  },
-  {
-    "name": "Fireboy And Watergirl 4 In The Crystal Temple",
-    "link": "https://www.coolmathgames.com/sites/default/files/public_games/40212/",
-    "image": "/assets/media/icons/fireboyandwatergirlcrystaltemple.webp",
-    "categories": ["all", "2P"]
-  },
-  {
-    "name": "Fireboy And Watergirl 5: Elements",
-    "link": "https://www.coolmathgames.com/sites/default/files/public_games/40218",
-    "image": "/assets/media/icons/fireboyandwatergirlelements.webp",
-    "categories": ["all", "2P"]
-  },
-  {
-    "name": "Fireboy And Watergirl 6: Fairy Tales",
-    "link": "https://html5.gamedistribution.com/rvvASMiM/be3cff113c4e4f069b7614851825ffe9/index.html",
-    "image": "/assets/media/icons/fireboyandwatergirlfairytales.webp",
-    "categories": ["all", "2P"]
-  },
-  {
-    "name": "Fireboy And Watergirl In The Forest Temple",
-    "link": "https://www.coolmathgames.com/sites/default/files/public_games/40034/",
-    "image": "/assets/media/icons/fireboyandwatergirlforesttemple.webp",
-    "categories": ["all", "2P"]
-  },
-  {
     "name": "Gunspin",
     "link": "https://html5.gamedistribution.com/rvvASMiM/917cce8c44c44638a8cdc2a1794b65c8/index.html",
     "image": "/assets/media/icons/gunspin.webp",
@@ -1277,31 +1203,6 @@
     "link": "https://bloxd.io",
     "image": "/assets/media/icons/bloxd-io.webp",
     "categories": ["all", "2P"]
-  },
-  {
-    "name": "Duck Life 1",
-    "link": "https://www.hoodamath.com/mobile/games/duck-life/game.html",
-    "image": "/assets/media/icons/ducklife.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Duck Life 2",
-    "link": "https://www.hoodamath.com/mobile/games/duck-life-2-world-champion/game.html",
-    "image": "/assets/media/icons/ducklife.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Duck Life 3",
-    "link": "https://www.hoodamath.com/mobile/games/duck-life-3-evolution/game.html",
-    "image": "/assets/media/icons/ducklife.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Duck Life 4",
-    "link": "/e/ducklife4/index.html",
-    "image": "/assets/media/icons/dl4.webp",
-    "categories": ["all", "local"],
-    "load": true
   },
   {
     "name": "Evades",
@@ -1370,18 +1271,6 @@
     "categories": ["all,", "emu"]
   },
   {
-    "name": "Run 3",
-    "link": "https://www.coolmathgames.com/0-run-3/play",
-    "image": "/assets/media/icons/run3.webp",
-    "categories": ["all,", "flash"]
-  },
-  {
-    "name": "Subway Surfers: San Francisco ",
-    "link": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html",
-    "image": "/assets/media/icons/SF.webp",
-    "categories": ["all,", "emu"]
-  },
-  {
     "name": "Super Mario Bros",
     "link": "https://topoi.pooq.com/hendrik/notmine/FullScreenMario/mario.html",
     "image": "/assets/media/icons/SMB.webp",
@@ -1398,12 +1287,6 @@
     "link": "/e/index.html",
     "image": "/assets/media/icons/webretro.webp",
     "categories": ["all,", "emu", "local"]
-  },
-  {
-    "name": "Slope",
-    "link": "https://watchdocumentaries.com/wp-content/uploads/games/slope/",
-    "image": "/assets/media/icons/slope.webp",
-    "categories": ["all"]
   },
   {
     "name": "Fortnite (Geforce NOW)",
@@ -1478,18 +1361,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Apex Legends",
-    "link": "https://play.geforcenow.com/games?game-id=cb2b1b5f-54ba-45fd-9839-96bbfe1376cd&lang=en_US&asset-id=01_c6efce00-e91e-402a-8b72-f4971f89c528",
-    "image": "/assets/media/icons/apex.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Basketball Stars",
-    "link": "https://html5.gamedistribution.com/69d78d071f704fa183d75b4114ae40ec/",
-    "image": "/assets/media/icons/basketball-stars.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Basketball Bros",
     "link": "https://www.basketbros.io/",
     "image": "/assets/media/icons/basket-bros.webp",
@@ -1511,12 +1382,6 @@
     "name": "BTD 4",
     "link": "https://en.gameslol.net/data/bloons-td-4/index.html",
     "image": "/assets/media/icons/btd4.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Cat Ninja",
-    "link": "https://4iapq88o5f3gc1dij3it0mp5jojnm3jr-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%252Fcat-ninja.xml",
-    "image": "/assets/media/icons/cat-ninja.webp",
     "categories": ["all"]
   },
   {
@@ -1553,12 +1418,6 @@
     "name": "Cookie Clicker",
     "link": "https://orteil.dashnet.org/cookieclicker/",
     "image": "/assets/media/icons/cookieclicker.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Crossy Road",
-    "link": "https://5dd2e1e3-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/169dc11d-e718-4b36-9e60-d5ed5bc07a31/index.html",
-    "image": "/assets/media/icons/cr.webp",
     "categories": ["all"]
   },
   {
@@ -1610,12 +1469,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Drive Mad",
-    "link": "https://raw.githack.com/3kh0/3kh0-assets/main/drive-mad/index.html",
-    "image": "/assets/media/icons/dm.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Fallout 2",
     "link": "https://jonasz-o.itch.io/fallout2remake3d",
     "image": "/assets/media/icons/fallout2.webp",
@@ -1625,12 +1478,6 @@
     "name": "FNAF 2 (Scratch)",
     "link": "https://scratch.mit.edu/projects/469219637/embed/",
     "image": "/assets/media/icons/FNAF2.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Friday Night Funkin'",
-    "link": "https://w8.snokido.com/games/html5/friday-night-funkin/0281/index.html",
-    "image": "/assets/media/icons/fnf.webp",
     "categories": ["all"]
   },
   {
@@ -1661,24 +1508,6 @@
     "name": "Krunker",
     "link": "https://krunker.io",
     "image": "/assets/media/icons/krunker.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "G-Switch",
-    "link": "https://5dd24442-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/4f2c69b4-3edc-4cd7-a078-efd3d1ea9fb5/index.html",
-    "image": "/assets/media/icons/gswitch.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "G-Switch 2",
-    "link": "https://5dd27095-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/e0e70ee4-fdd4-4de8-931d-fde7d1cb408b/index.html",
-    "image": "/assets/media/icons/gswitch2.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "G-Switch 3",
-    "link": "https://5dd2b395-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/120fdec6-7eeb-470f-a43c-9bcdace0dacb/index.html",
-    "image": "/assets/media/icons/gswitch3.webp",
     "categories": ["all"]
   },
   {
@@ -1736,12 +1565,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Learn To Fly Idle",
-    "link": "https://www.gameslol.net/data/waflash/index.php?g=635",
-    "image": "/assets/media/icons/ltf_idle.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Lordz.io",
     "link": "https://lordz.io/",
     "image": "/assets/media/icons/lordz.webp",
@@ -1758,12 +1581,6 @@
     "link": "https://overboy.itch.io/mobs-inc",
     "image": "/assets/media/icons/mobsinc.webp",
     "categories": ["all"]
-  },
-  {
-    "name": "Monkey Mart",
-    "link": "/e/monkey-mart/index.html",
-    "image": "/assets/media/icons/mm.webp",
-    "categories": ["all", "local"]
   },
   {
     "name": "MooMoo.io",
@@ -1784,30 +1601,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Moto X3M",
-    "link": "https://html5.gamedistribution.com/rvvASMiM/5b0abd4c0faa4f5eb190a9a16d5a1b4c/index.html",
-    "image": "/assets/media/icons/mx3m.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "MX3M: Pool Party",
-    "link": "https://h0jokl1egt0fd4oc8qv3j0tltl9jbqhn-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://649025137-174029463385024710.preview.editmysite.com/uploads/b/139890129-767696982876512205/files/mx3mpp.xml",
-    "image": "/assets/media/icons/mx3m.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "MX3M: Spooky Land",
-    "link": "https://html5.gamedistribution.com/rvvASMiM/b8a342904608470a9f3382337aca3558/index.html",
-    "image": "/assets/media/icons/mx3m-spooky.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "MX3M: Winter",
-    "link": "https://www-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://sites.google.com/site/s017q3e/moto-x3m-4-winter.xml",
-    "image": "/assets/media/icons/mx3m-winter.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Saul Run",
     "link": "https://complex-ify.itch.io/saul-goodman",
     "image": "/assets/media/icons/saulrun.webp",
@@ -1823,12 +1616,6 @@
     "name": "Ninja Cat Exploit",
     "link": "https://html5.gamedistribution.com/rvvASMiM/903ba9346b9d437e9c7e81d672cead44/index.html",
     "image": "/assets/media/icons/ninja-cat.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "OvO",
-    "link": "https://8rlfg0ch3417et18dp8lvps6uo7c3b2c-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://427396048-642845047394716217.preview.editmysite.com/uploads/b/139890129-761103484729797659/files/ovo.xml",
-    "image": "/assets/media/icons/ovo.webp",
     "categories": ["all"]
   },
   {
@@ -1892,12 +1679,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Pixel Shooter",
-    "link": "https://94bfktj403i6m18as4vkvtreqd0ohci4-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://274019683-173520394482650759.preview.editmysite.com/uploads/b/139890129-131715539788281629/files/ps.xml",
-    "image": "/assets/media/icons/pixel-shooter.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Pizza Tower",
     "link": "https://gamaverse.com/c/e/g/pizza-tower-1678640389/index.html",
     "image": "/assets/media/icons/pizza-tower.webp",
@@ -1907,12 +1688,6 @@
     "name": "Pokemon Showdown",
     "link": "https://play.pokemonshowdown.com",
     "image": "/assets/media/icons/showdown.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Google Baseball",
-    "link": "https://www.google.com/logos/2019/july4th19/r6/july4th19.html",
-    "image": "/assets/media/icons/googlebaseball.webp",
     "categories": ["all"]
   },
   {
@@ -1943,48 +1718,6 @@
     "name": "PM: Light Platinum",
     "link": "https://browncha023.github.io/GBA/launcher.html#pokemonlp",
     "image": "/assets/media/icons/lp.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Precision Client",
-    "link": "https://raw.githack.com/3kh0/3kh0-assets/main/precision-client/index.html",
-    "image": "/assets/media/icons/precision.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Rainbow Six Siege",
-    "link": "https://play.geforcenow.com/games?game-id=1dd07d47-6601-42f7-80e9-e4d8db08ea1b&lang=en_US&asset-id=01_44417-48c3d8e642e2",
-    "image": "/assets/media/icons/r6.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Red Ball 1",
-    "link": "https://www.algebrashelper.com/redball",
-    "image": "/assets/media/icons/redball1.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Red Ball 2",
-    "link": "https://www.algebrashelper.com/redball-2",
-    "image": "/assets/media/icons/redball2.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Red Ball 4",
-    "link": "https://www.algebrashelper.com/redball-4",
-    "image": "/assets/media/icons/redball4.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Red Ball 4 Vol. 2",
-    "link": "https://www.algebrashelper.com/read-ball-4v2",
-    "image": "/assets/media/icons/redball4vol2.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Red Ball 4 Vol. 3",
-    "link": "https://www.algebrashelper.com/red-ball-4v3",
-    "image": "/assets/media/icons/redball4vol3.webp",
     "categories": ["all"]
   },
   {
@@ -2072,12 +1805,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Sugar Sugar HTML5",
-    "link": "https://66564262-37c6-4095-a731-535342e4bbe4.poki-gdn.com/5bd6e8c6-381d-4de5-9823-96662d29afaf/index.html",
-    "image": "/assets/media/icons/sugarsugar.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Super Mario 63",
     "link": "https://www.numuki.com/gameframe/super-mario-63",
     "image": "/assets/media/icons/sm63.webp",
@@ -2156,12 +1883,6 @@
     "link": "https://real-sgs.vercel.app/Tools/GBA-Emulator",
     "image": "/assets/media/icons/gba.webp",
     "categories": ["all"]
-  },
-  {
-    "name": "Retro Bowl",
-    "link": "/e/retro/index.html",
-    "image": "/assets/media/icons/retro.webp",
-    "categories": ["all,", "sports", "local"]
   },
   {
     "name": "Roblox (Now.GG)",
@@ -2260,33 +1981,9 @@
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Toca Life World",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.tocaboca.tocalifeworld&partner=interstellar",
-    "image": "/assets/media/icons/tocalifeworld.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Toca Hair Salon 4",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.tocaboca.tocahairsalon4&partner=interstellar",
-    "image": "/assets/media/icons/tocabocahairsalon4.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Toca Kitchen 2",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.tocaboca.tocakitchen2&partner=interstellar",
-    "image": "/assets/media/icons/tocakitchen2.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
     "name": "Free Fire",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.dts.freefireth&partner=interstellar",
     "image": "/assets/media/icons/freefire.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Stumble Guys (Android)",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.kitkagames.fallbuddies&partner=interstellar",
-    "image": "/assets/media/icons/stumble-guys.webp",
     "categories": ["all", "emu", "android"]
   },
   {
@@ -2368,22 +2065,16 @@
     "categories": ["all"]
   },
   {
-    "name": "Minecraft 1.5.2 (Eaglercraft)",
+    "name": "Eaglercraft 1.5.2",
     "link": "/e/ec-15/index.html",
     "image": "/assets/media/icons/mc.webp",
     "categories": ["all", "2P", "emu", "local"]
   },
   {
-    "name": "Minecraft 1.8 (Eaglercraft)",
+    "name": "Eaglercraft 1.8",
     "link": "/e/ec-18/index.html",
     "image": "/assets/media/icons/mc.webp",
     "categories": ["all", "2P", "emu", "local"]
-  },
-  {
-    "name": "Getaway S.",
-    "link": "https://www.twoplayergames.org/embed/getaway-shootout",
-    "image": "/assets/media/icons/getaway.webp",
-    "categories": ["all", "2P"]
   },
   {
     "name": "Eaglercraft 1.5.2 [Singleplayer]",
@@ -2402,36 +2093,6 @@
     "name": "2048 Multitasking",
     "link": "/e/2048-multitask/index.html",
     "image": "/assets/media/icons/2048.webp",
-    "categories": ["all", "local"]
-  },
-  {
-    "name": "Vex 7",
-    "link": "/e/vex7/index.html",
-    "image": "/assets/media/icons/vex7.webp",
-    "categories": ["all", "local"]
-  },
-  {
-    "name": "Vex 6",
-    "link": "/e/vex6/index.html",
-    "image": "/assets/media/icons/vex6.webp",
-    "categories": ["all", "local"]
-  },
-  {
-    "name": "Vex 5",
-    "link": "/e/vex5/index.html",
-    "image": "/assets/media/icons/vex5.webp",
-    "categories": ["all", "local"]
-  },
-  {
-    "name": "Vex 3",
-    "link": "/e/vex3/index.html",
-    "image": "/assets/media/icons/vex3.webp",
-    "categories": ["all", "local"]
-  },
-  {
-    "name": "Vex 4",
-    "link": "/e/vex4/index.html",
-    "image": "/assets/media/icons/vex4.webp",
     "categories": ["all", "local"]
   },
   {
