@@ -10,8 +10,6 @@ This website is powered by Interstellar code, a project licensed under the GNU A
 - changed json for games and apps;
 - integrated disqus;
 
-
-
 ## Interstellar
 <div align="center">
     <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
