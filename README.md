@@ -12,7 +12,6 @@ This website is powered by Interstellar code, a project licensed under the GNU A
 
 ## Interstellar
 <div align="center">
-    <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
     <p>Interstellar is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
 </div>
 
