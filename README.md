@@ -9,6 +9,7 @@ This website is powered by Interstellar code, a project licensed under the GNU A
 - UI changes on tabs page;
 - changed json for games and apps;
 - integrated disqus;
+- changes settings;
 
 ## Interstellar
 <div align="center">
