@@ -5,10 +5,10 @@ At ClassroomCommunity.com, we are dedicated to fostering a vibrant and inclusive
 This website is powered by Interstellar code, a project licensed under the GNU Affero General Public License (AGPL) Version 3, dated 19 November 2007. Our modifications and additional source code are available under the same license and can be accessed at GitHub.
 
 ## ClassroomCommunity modifications:
-> branded the website under Classroom Community name;
-> UI changes on tabs page;
-> changed json for games and apps;
-> integrated disqus;
+- branded the website under Classroom Community name;
+- UI changes on tabs page;
+- changed json for games and apps;
+- integrated disqus;
 
 
 
