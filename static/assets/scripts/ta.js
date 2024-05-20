@@ -267,17 +267,30 @@ function erudaToggle() {
 
 // Fullscreen
 function FS() {
-  const activeIframe = document.querySelector("#iframe-container iframe.active")
+  const activeIframe = document.querySelector("#iframe-container iframe.active");
   if (activeIframe) {
-    if (!activeIframe.contentDocument.fullscreenElement) {
-      activeIframe.contentDocument.documentElement.requestFullscreen()
+    const iframeDocument = activeIframe.contentDocument || activeIframe.contentWindow.document;
+
+    if (!document.fullscreenElement) {
+      iframeDocument.documentElement.requestFullscreen().catch(err => {
+        console.error(`Error attempting to enable full-screen mode: ${err.message} (${err.name})`);
+      });
     } else {
-      activeIframe.contentDocument.exitFullscreen()
+      document.exitFullscreen().catch(err => {
+        console.error(`Error attempting to exit full-screen mode: ${err.message} (${err.name})`);
+      });
     }
   } else {
-    console.error("No active iframe found")
+    console.error("No active iframe found");
   }
 }
+
+// Ascultă pentru evenimentul de ieșire din fullscreen (ESC)
+document.addEventListener("fullscreenchange", () => {
+  if (!document.fullscreenElement) {
+    console.log("Exited fullscreen mode");
+  }
+});
 
 const fullscreenButton = document.getElementById("fullscreen-button")
 fullscreenButton.addEventListener("click", FS)
