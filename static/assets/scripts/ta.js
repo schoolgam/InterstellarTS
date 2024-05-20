@@ -87,8 +87,6 @@ document.addEventListener("DOMContentLoaded", function (event) {
 	  
     }
 
-    // newIframe.allowFullscreen = true;
-    newIframe.setAttribute('allowfullscreen', '');
     iframeContainer.appendChild(newIframe)
 
     tabCounter++
@@ -271,10 +269,9 @@ function erudaToggle() {
 function FS() {
   const activeIframe = document.querySelector("#iframe-container iframe.active");
   if (activeIframe) {
-    const iframeDocument = activeIframe.contentDocument || activeIframe.contentWindow.document;
 
     if (!document.fullscreenElement) {
-      iframeDocument.documentElement.requestFullscreen().catch(err => {
+      activeIframe.requestFullscreen().catch(err => {
         console.error(`Error attempting to enable full-screen mode: ${err.message} (${err.name})`);
       });
     } else {
@@ -286,13 +283,6 @@ function FS() {
     console.error("No active iframe found");
   }
 }
-
-// Ascultă pentru evenimentul de ieșire din fullscreen (ESC)
-document.addEventListener("fullscreenchange", () => {
-  if (!document.fullscreenElement) {
-    console.log("Exited fullscreen mode");
-  }
-});
 
 const fullscreenButton = document.getElementById("fullscreen-button")
 fullscreenButton.addEventListener("click", FS)
@@ -329,36 +319,36 @@ function goForward() {
   }
 }
 
-// Remove Nav
-document.addEventListener("fullscreenchange", function () {
-  const isFullscreen = Boolean(document.fullscreenElement)
-  document.body.classList.toggle("fullscreen", isFullscreen)
-})
+// // Remove Nav
+// document.addEventListener("fullscreenchange", function () {
+//   const isFullscreen = Boolean(document.fullscreenElement)
+//   document.body.classList.toggle("fullscreen", isFullscreen)
+// })
 
 document.addEventListener("DOMContentLoaded", function () {
-  var navIcon = document.getElementById("nav-icon")
-  var navBar = document.getElementById("right-side-nav")
-  const activeIframe = document.querySelector("#iframe-container iframe.active")
+  var navIcon = document.getElementById("nav-icon");
+  var navBar = document.getElementById("right-side-nav");
+  const activeIframe = document.querySelector("#iframe-container iframe.active");
 
-  console.log(navIcon)
+  console.log(navIcon);
   navIcon.addEventListener("click", function () {
-    var isOpen = navBar.classList.toggle("hidden")
-    this.classList.toggle("open")
+    var isOpen = navBar.classList.toggle("hidden");
+    this.classList.toggle("open");
     if (isOpen) {
-      activeIframe.style.top = "5%"
+      activeIframe.style.top = "5%";
     } else {
-      activeIframe.style.top = "13%"
+      activeIframe.style.top = "13%";
     }
-  })
-  
-  var isOpen = navBar.classList.toggle("hidden")
-    this.classList.toggle("open")
-    if (isOpen) {
-      activeIframe.style.top = "5%"
-    } else {
-      activeIframe.style.top = "13%"
-    }
-})
+  });
+
+  var isOpen = navBar.classList.toggle("hidden");
+  this.classList.toggle("open");
+  if (isOpen) {
+    activeIframe.style.top = "5%";
+  } else {
+    activeIframe.style.top = "13%";
+  }
+});
 
 if (navigator.userAgent.includes("Chrome")) {
   window.addEventListener("resize", function () {
