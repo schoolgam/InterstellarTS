@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
     const newTab = document.createElement("li")
     const tabTitle = document.createElement("span")
     const newIframe = document.createElement("iframe")
+    newIframe.allowFullscreen = true;
 
     tabTitle.textContent = `New Tab ${tabCounter}`
     tabTitle.className = "tab-title"

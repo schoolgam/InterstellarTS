@@ -363,13 +363,6 @@
     "image": "/lessons/2024/more/world-of-blocks/512x512.jpg",
     "categories": ["all", "local"]
   },
-
-  {
-    "name": "Drift Hunters 1",
-    "link": "/lessons/2023/unity3/drift-hunters/index.html",
-    "image": "/lessons/2023/unity3/drift-hunters/512.jpg",
-    "categories": ["all", "local"]
-  },
   {
       "name": "Duck Life 4",
       "link": "/lessons/2024/flash/duck-life-4/index.html",
