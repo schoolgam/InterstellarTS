@@ -267,20 +267,15 @@ function erudaToggle() {
 
 // Fullscreen
 function FS() {
-  const activeIframe = document.querySelector("#iframe-container iframe.active");
+  const activeIframe = document.querySelector("#iframe-container iframe.active")
   if (activeIframe) {
-
-    if (!document.fullscreenElement) {
-      activeIframe.requestFullscreen().catch(err => {
-        console.error(`Error attempting to enable full-screen mode: ${err.message} (${err.name})`);
-      });
+    if (!activeIframe.contentDocument.fullscreenElement) {
+      activeIframe.contentDocument.documentElement.requestFullscreen()
     } else {
-      document.exitFullscreen().catch(err => {
-        console.error(`Error attempting to exit full-screen mode: ${err.message} (${err.name})`);
-      });
+      activeIframe.contentDocument.exitFullscreen()
     }
   } else {
-    console.error("No active iframe found");
+    console.error("No active iframe found")
   }
 }
 
@@ -319,36 +314,36 @@ function goForward() {
   }
 }
 
-// // Remove Nav
-// document.addEventListener("fullscreenchange", function () {
-//   const isFullscreen = Boolean(document.fullscreenElement)
-//   document.body.classList.toggle("fullscreen", isFullscreen)
-// })
+// Remove Nav
+document.addEventListener("fullscreenchange", function () {
+  const isFullscreen = Boolean(document.fullscreenElement)
+  document.body.classList.toggle("fullscreen", isFullscreen)
+})
 
 document.addEventListener("DOMContentLoaded", function () {
-  var navIcon = document.getElementById("nav-icon");
-  var navBar = document.getElementById("right-side-nav");
-  const activeIframe = document.querySelector("#iframe-container iframe.active");
+  var navIcon = document.getElementById("nav-icon")
+  var navBar = document.getElementById("right-side-nav")
+  const activeIframe = document.querySelector("#iframe-container iframe.active")
 
-  console.log(navIcon);
+  console.log(navIcon)
   navIcon.addEventListener("click", function () {
-    var isOpen = navBar.classList.toggle("hidden");
-    this.classList.toggle("open");
+    var isOpen = navBar.classList.toggle("hidden")
+    this.classList.toggle("open")
     if (isOpen) {
-      activeIframe.style.top = "5%";
+      activeIframe.style.top = "5%"
     } else {
-      activeIframe.style.top = "13%";
+      activeIframe.style.top = "13%"
     }
-  });
-
-  var isOpen = navBar.classList.toggle("hidden");
-  this.classList.toggle("open");
-  if (isOpen) {
-    activeIframe.style.top = "5%";
-  } else {
-    activeIframe.style.top = "13%";
-  }
-});
+  })
+  
+  var isOpen = navBar.classList.toggle("hidden")
+    this.classList.toggle("open")
+    if (isOpen) {
+      activeIframe.style.top = "5%"
+    } else {
+      activeIframe.style.top = "13%"
+    }
+})
 
 if (navigator.userAgent.includes("Chrome")) {
   window.addEventListener("resize", function () {
