@@ -241,14 +241,14 @@ li:hover {
   background-color: var(--hover-color);
 }
 
-iframe {
+/* iframe {
   position: absolute;
   width: 100%;
   height: 100%;
   border: none;
   left: 0;
   top: 5%;
-}
+} */
 
 /* Credits to https://codepen.io/designcouch/pen/ExvwPY for the hamburger animations */
 #nav-icon {
