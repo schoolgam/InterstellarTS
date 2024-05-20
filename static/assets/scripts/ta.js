@@ -345,11 +345,11 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 })
 
-if (navigator.userAgent.includes("Chrome")) {
-  window.addEventListener("resize", function () {
-    navigator.keyboard.lock(["Escape"])
-  })
-}
+// if (navigator.userAgent.includes("Chrome")) {
+//   window.addEventListener("resize", function () {
+//     navigator.keyboard.lock(["Escape"])
+//   })
+// }
 
 function Load() {
   const activeIframe = document.querySelector("#iframe-container iframe.active")
