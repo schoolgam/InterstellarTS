@@ -91,7 +91,9 @@ if (themeid == "catppuccinFrappe") {
 if (themeid == "catppuccinLatte") {
   themeEle.href = "/assets/styles/themes/catppuccin/latte.css?v=1"
 }
-document.body.appendChild(themeEle)
+if(document.body !== null && themeEle !== null){
+  document.body.appendChild(themeEle)
+}
 // Tab Cloaker
 document.addEventListener("DOMContentLoaded", function (event) {
   const icon = document.getElementById("tab-favicon")
