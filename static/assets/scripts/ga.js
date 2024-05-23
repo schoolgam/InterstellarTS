@@ -256,10 +256,10 @@ document.addEventListener("DOMContentLoaded", () => {
       })
 
       const appsContainer = document.getElementById("container-apps")
-      appsContainer.appendChild(pinnedApps)
-      appsContainer.appendChild(nonPinnedApps)
       console.error(pinnedApps);
       console.error(nonPinnedApps);
+      appsContainer.appendChild(pinnedApps)
+      appsContainer.appendChild(nonPinnedApps)
     })
     .catch((error) => {
       console.error("Error fetching JSON data:", error)
