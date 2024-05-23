@@ -336,7 +336,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   })
   
-  // var isOpen = navBar.classList.toggle("hidden")
+  var isOpen = navBar.classList.toggle("hidden")
     // this.classList.toggle("open")
     // if (isOpen) {
     //   activeIframe.style.top = "5%"
