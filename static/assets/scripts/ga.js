@@ -255,7 +255,7 @@ document.addEventListener("DOMContentLoaded", () => {
         appInd++
       })
 
-      const appsContainer = document.getElementById("apps-container")
+      const appsContainer = document.getElementById("games-container")
       appsContainer.appendChild(pinnedApps)
       appsContainer.appendChild(nonPinnedApps)
     })
