@@ -256,8 +256,6 @@ document.addEventListener("DOMContentLoaded", () => {
       })
 
       const appsContainer = document.getElementById("container-apps")
-      console.error(pinnedApps);
-      console.error(nonPinnedApps);
       appsContainer.appendChild(pinnedApps)
       appsContainer.appendChild(nonPinnedApps)
     })
