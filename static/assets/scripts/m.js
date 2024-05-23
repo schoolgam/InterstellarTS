@@ -91,9 +91,6 @@ if (themeid == "catppuccinFrappe") {
 if (themeid == "catppuccinLatte") {
   themeEle.href = "/assets/styles/themes/catppuccin/latte.css?v=1"
 }
-console.error(document.body);
-console.error(themeEle);
-
 document.body.appendChild(themeEle)
 // Tab Cloaker
 document.addEventListener("DOMContentLoaded", function (event) {
