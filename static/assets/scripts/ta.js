@@ -336,13 +336,13 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   })
   
-  var isOpen = navBar.classList.toggle("hidden")
-    this.classList.toggle("open")
-    if (isOpen) {
-      activeIframe.style.top = "5%"
-    } else {
-      activeIframe.style.top = "13%"
-    }
+  // var isOpen = navBar.classList.toggle("hidden")
+    // this.classList.toggle("open")
+    // if (isOpen) {
+    //   activeIframe.style.top = "5%"
+    // } else {
+    //   activeIframe.style.top = "13%"
+    // }
 })
 
 // if (navigator.userAgent.includes("Chrome")) {
