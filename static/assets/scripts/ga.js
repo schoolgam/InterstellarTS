@@ -153,6 +153,7 @@ document.addEventListener("DOMContentLoaded", () => {
       return response.json()
     })
     .then((appsList) => {
+      console.error("fetch 1");
       // appsList.sort((a, b) => {
         // if (a.name.startsWith("[Custom]")) return -1
         // if (b.name.startsWith("[Custom]")) return 1
@@ -258,6 +259,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const appsContainer = document.getElementById("container-apps")
       appsContainer.appendChild(pinnedApps)
       appsContainer.appendChild(nonPinnedApps)
+      console.error("fetch 2");
     })
     .catch((error) => {
       console.error("Error fetching JSON data:", error)
