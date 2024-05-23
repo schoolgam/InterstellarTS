@@ -153,7 +153,6 @@ document.addEventListener("DOMContentLoaded", () => {
       return response.json()
     })
     .then((appsList) => {
-      console.error("fetch 1");
       // appsList.sort((a, b) => {
         // if (a.name.startsWith("[Custom]")) return -1
         // if (b.name.startsWith("[Custom]")) return 1
@@ -161,7 +160,6 @@ document.addEventListener("DOMContentLoaded", () => {
       // })
       const nonPinnedApps = document.querySelector(".container-apps")
       const pinnedApps = document.querySelector(".pinned-apps")
-      console.error("fetch 2");
       var pinList = localStorage.getItem("Gpinned") || ""
       pinList = pinList ? pinList.split(",").map(Number) : []
       appInd = 0
@@ -210,7 +208,6 @@ document.addEventListener("DOMContentLoaded", () => {
           handleClick(app)
         }
 
-      console.error("fetch 3");
         const image = document.createElement("img")
         image.width = 145
         image.height = 145
@@ -258,11 +255,11 @@ document.addEventListener("DOMContentLoaded", () => {
         appInd++
       })
 
-      console.error("fetch 4");
       const appsContainer = document.getElementById("container-apps")
       appsContainer.appendChild(pinnedApps)
       appsContainer.appendChild(nonPinnedApps)
-      console.error("fetch end");
+      console.error(pinnedApps);
+      console.error(nonPinnedApps);
     })
     .catch((error) => {
       console.error("Error fetching JSON data:", error)
