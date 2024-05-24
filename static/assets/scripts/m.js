@@ -62,8 +62,7 @@ if (localStorage.getItem("cache") !== "3") {
 var nav = document.querySelector(".fixed-nav-bar");
 
 if (nav) {
-  // Generăm un număr aleatoriu între 1 și 9
-  var randomNumber = Math.floor(Math.random() * 9) + 1;
+  var randomNumber = Math.floor(Math.random() * 7) + 1;
   // Construim calea imaginii folosind numărul aleatoriu
   var imgSrc = `/assets/media/favicon/${randomNumber}.png`;
 
