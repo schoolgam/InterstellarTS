@@ -59,20 +59,25 @@ if (localStorage.getItem("cache") !== "3") {
 
 
 // Nav
-var nav = document.querySelector(".fixed-nav-bar")
+var nav = document.querySelector(".fixed-nav-bar");
 
 if (nav) {
+  // Generăm un număr aleatoriu între 1 și 9
+  var randomNumber = Math.floor(Math.random() * 9) + 1;
+  // Construim calea imaginii folosind numărul aleatoriu
+  var imgSrc = `/assets/media/favicon/${randomNumber}.jpg`;
+
   var html = `
     <div class="fixed-nav-bar-container">
-      <a class="icon" href="/./"><img alt="nav" id="INImg" src="/assets/media/favicon/main.png"/></a>
+      <a class="icon" href="/./"><img alt="nav" id="INImg" src="${imgSrc}"/></a>
     </div>
     <div class="fixed-nav-bar-right">
       <a class="navbar-link" href="/./gm"><i class="fa-solid fa-gamepad navbar-icon"></i><an>Ga</an><an>mes</an></a>
       <a class="navbar-link" href="/./as"><i class="fa-solid fa-phone navbar-icon"></i><an>Ap</an><an>ps</an></a>
       <a class="navbar-link" href="/./ta"><i class="fa-solid fa-laptop navbar-icon"></i><an>Ta</an><an>bs</an></a>
       <a class="navbar-link" href="/./st"><i class="fa-solid fa-gear navbar-icon settings-icon"></i><an>Set</an><an>tings</an></a>
-    </div>`
-  nav.innerHTML = html
+    </div>`;
+  nav.innerHTML = html;
 }
 
 // Themes
