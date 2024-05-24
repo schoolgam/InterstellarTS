@@ -174,8 +174,6 @@ document.addEventListener("DOMContentLoaded", function (event) {
 // Splash
 let SplashT = [
   "Thanks for using the site",
-  "Follow us on Tiktok (@totallyscience.co)",
-  "Subscribe to us on YouTube (@totallyscienceunblocked)",
   "Check out the settings page",
 ]
 
