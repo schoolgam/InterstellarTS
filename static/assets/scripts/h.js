@@ -174,7 +174,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 // Splash
 let SplashT = [
   "Thanks for using the site",
-  "Check out the settings page",
+  "Check out the settings page"
 ]
 
 let SplashI = Math.floor(Math.random() * SplashT.length)
