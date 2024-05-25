@@ -72,9 +72,9 @@ if (nav) {
     </div>
     <div class="fixed-nav-bar-right">
       <a class="navbar-link" href="/./gm"><i class="fa-solid fa-play navbar-icon"></i><an>Ga</an><an>mes</an></a>
-      <a class="navbar-link" href="/./as"><i class="fa-solid fa-android navbar-icon"></i><an>Ap</an><an>ps</an></a>
+      <a class="navbar-link" href="/./as"><i class="fa-solid fa-envelope navbar-icon"></i><an>Ap</an><an>ps</an></a>
       <a class="navbar-link" href="/./ta"><i class="fa-solid fa-clone navbar-icon"></i><an>Ta</an><an>bs</an></a>
-      <a class="navbar-link" href="/./st"><i class="fa-solid fa-gear navbar-icon settings-icon"></i><an>Set</an><an>tings</an></a>
+      <a class="navbar-link" href="/./st"><i class="fa-solid fa-wrench navbar-icon settings-icon"></i><an>Set</an><an>tings</an></a>
     </div>`;
   nav.innerHTML = html;
 }
