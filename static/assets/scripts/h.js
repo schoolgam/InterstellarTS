@@ -172,21 +172,19 @@ document.addEventListener("DOMContentLoaded", function (event) {
   }
 })
 
-(function() {
-  let SplashT = [
-    "Thanks for using the site",
-    "Check out the settings page"
-  ]
+let SplashT = [
+  "Thanks for using the site",
+  "Check out the settings page"
+]
 
-  let SplashI = Math.floor(Math.random() * SplashT.length)
-  const SplashE = document.getElementById("splash")
+let SplashI = Math.floor(Math.random() * SplashT.length)
+const SplashE = document.getElementById("splash")
 
-  function US() {
-    SplashI = (SplashI + 1) % SplashT.length
-    SplashE.innerText = SplashT[SplashI]
-  }
-
+function US() {
+  SplashI = (SplashI + 1) % SplashT.length
   SplashE.innerText = SplashT[SplashI]
+}
 
-  SplashE.addEventListener("click", US)
-})();
+SplashE.innerText = SplashT[SplashI]
+
+SplashE.addEventListener("click", US)
