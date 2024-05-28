@@ -171,20 +171,22 @@ document.addEventListener("DOMContentLoaded", function (event) {
     particlesJS("particles-js", particlesConfig)
   }
 })
-// Splash
-let SplashT = [
-  "Thanks for using the site",
-  "Check out the settings page"
-]
 
-let SplashI = Math.floor(Math.random() * SplashT.length)
-const SplashE = document.getElementById("splash")
+(function() {
+  let SplashT = [
+    "Thanks for using the site",
+    "Check out the settings page"
+  ]
 
-function US() {
-  SplashI = (SplashI + 1) % SplashT.length
+  let SplashI = Math.floor(Math.random() * SplashT.length)
+  const SplashE = document.getElementById("splash")
+
+  function US() {
+    SplashI = (SplashI + 1) % SplashT.length
+    SplashE.innerText = SplashT[SplashI]
+  }
+
   SplashE.innerText = SplashT[SplashI]
-}
 
-SplashE.innerText = SplashT[SplashI]
-
-SplashE.addEventListener("click", US)
+  SplashE.addEventListener("click", US)
+})();
