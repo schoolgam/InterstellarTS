@@ -62,12 +62,6 @@
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Movie Web",
-    "link": "https://movie-web.app",
-    "image": "/assets/media/icons/movie-web.webp",
-    "categories": ["all", "media", "stream"]
-  },
-  {
     "name": "Scratch",
     "link": "https://scratch.mit.edu",
     "image": "/assets/media/icons/scratch.webp",
@@ -138,12 +132,6 @@
     "link": "https://www.hbomax.com/",
     "image": "/assets/media/icons/hbo.webp",
     "categories": ["all", "stream"]
-  },
-  {
-    "name": "MLB",
-    "link": "https://mlb.com",
-    "image": "/assets/media/icons/mlb.webp",
-    "categories": ["all"]
   },
   {
     "name": "NFL",
@@ -280,12 +268,6 @@
     "categories": ["all", "social"]
   },
   {
-    "name": "ChatGPT Clone",
-    "link": "https://chat.shuttleai.app/",
-    "image": "/assets/media/icons/chatgpt.webp",
-    "categories": ["all", "AI"]
-  },
-  {
     "name": "Discord - Login",
     "link": "https://canary.discord.com/login",
     "image": "/assets/media/icons/discord.webp",
@@ -330,22 +312,10 @@
     "categories": ["all", "ai"]
   },
   {
-    "name": "Snapchat",
-    "image": "/assets/media/icons/snap.webp",
-    "categories": ["all", "social", "message", "media"],
-    "error": "true"
-  },
-  {
     "name": "W3Schools",
     "link": "https://www.w3schools.com",
     "image": "/assets/media/icons/W3Schools.webp",
     "categories": ["all"]
-  },
-  {
-    "name": "Instagram",
-    "image": "/assets/media/icons/insta.webp",
-    "categories": ["all", "social", "message", "media"],
-    "error": "true"
   },
   {
     "name": "Gartic Phone",
@@ -381,12 +351,6 @@
     "name": "Marbles Garden",
     "link": "https://www.coolmathgames.com/0-marbles-garden/play",
     "image": "/assets/media/icons/marblesgarden.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Rooftop Snipers 2",
-    "link": "https://h5cdn.github.io/s6/rooftop-snipers-2/",
-    "image": "/assets/media/icons/rooftopsnipers2.webp",
     "categories": ["all"]
   },
   {
@@ -1319,12 +1283,6 @@
     "name": "Bloons TD Battles",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.ninjakiwi.bloonstdbattles&partner=interstellar",
     "image": "/assets/media/icons/bloonstd.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Cookie Run Kingdom",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.devsisters.ck&partner=interstellar",
-    "image": "/assets/media/icons/cookierunkingdom.webp",
     "categories": ["all", "emu", "android"]
   },
   {
