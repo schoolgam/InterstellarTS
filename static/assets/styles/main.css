@@ -192,7 +192,8 @@ body {
     "opsz" 48;
 }
 
-.navbar-link:hover > .settings-icon {
+.navbar-link:hover > .settings-icon,
+.navbar-link:hover > .premium-icon {
   animation: spin 0.5s;
   animation-timing-function: cubic-bezier(0, 1.04, 0.91, 0.99);
 }
